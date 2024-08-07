@@ -1,1 +1,0 @@
-# Electronic Health Record (EHR) Software Documentation
